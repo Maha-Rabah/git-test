@@ -1,0 +1,12 @@
+img.logo{
+    width: 50px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav .nav-items{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
